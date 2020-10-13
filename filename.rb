@@ -1,2 +1,2 @@
-class Code
+class File
 end
